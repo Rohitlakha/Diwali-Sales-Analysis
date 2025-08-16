@@ -40,7 +40,6 @@ Diwali-Sales-Analysis/
 │── data/ # Dataset files
 │── notebooks/ # Jupyter notebooks for analysis
 │── images/ # Visualization outputs
-│── src/ # Python scripts (if needed)
 │── requirements.txt # Project dependencies
 │── README.md # Documentation
 ```
