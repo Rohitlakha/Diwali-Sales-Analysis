@@ -61,3 +61,27 @@ pip install -r requirements.txt
 ```bash
 jupyter notebook
 ```
+
+---
+
+## 📌 Results & Conclusion  
+
+- 🎯 Customer segmentation reveals strong impact on festive sales  
+- 🎨 Businesses can leverage **personalized marketing strategies**  
+- 📦 Product demand forecasting can enhance **inventory management**  
+
+---
+
+## 🙌 Acknowledgements  
+
+- 📊 Dataset Source: [Kaggle – Diwali Sales Dataset](https://www.kaggle.com)  
+
+---
+
+## 📧 Contact  
+
+👤 **Rohit Lakha**  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/rohitlakha)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/rohitlakha)  
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:rohitdataanalysis@gmail.com)  
